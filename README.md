@@ -1,2 +1,2 @@
-# scene Text reconstruction 
+# Scene Text Reconstruction 
 machine learning project
